@@ -1,0 +1,23 @@
+{
+  "home": "ホーム",
+
+  "sidenav.dashboard": "管理者管理",
+  "sidenav.dashboard.default": "ホーム",
+  "sidenav.dashboard.category": "カテゴリー管理",
+  "sidenav.dashboard.new": "ニュース管理",
+  "sidenav.dashboard.brand": "ブランド管理",
+  "sidenav.dashboard.product": "製品管理",
+  "sidenav.dashboard.order": "注文管理",
+  "sidenav.dashboard.voucher": "クーポン管理",
+
+  "sidenav.dashboard.review": "レビュー管理",
+  "sidenav.dashboard.user": "ユーザー管理",
+
+  "sidenav.apps.chat": "チャット",
+  "sidenav.apps.ecommerce": "電子商取引",
+  "sidenav.apps.ecommerce.product": "製品",
+  "sidenav.apps.ecommerce.editProduct": "製品を編集",
+  "sidenav.apps.ecommerce.addProduct": "製品を追加",
+  "sidenav.apps.ecommerce.productList": "製品リスト",
+  "sidenav.apps.ecommerce.orders": "注文"
+}

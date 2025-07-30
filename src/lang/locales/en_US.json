@@ -1,0 +1,23 @@
+{
+  "home": "Home",
+
+  "sidenav.dashboard": "ADMIN Management",
+  "sidenav.dashboard.default": "Home",
+  "sidenav.dashboard.category": "Category Management",
+  "sidenav.dashboard.new": "News Management",
+  "sidenav.dashboard.brand": "Brand Management",
+  "sidenav.dashboard.product": "Product Management",
+  "sidenav.dashboard.order": "Order Management",
+  "sidenav.dashboard.voucher": "Voucher Management",
+
+  "sidenav.dashboard.review": "Review Management",
+  "sidenav.dashboard.user": "User Management",
+
+  "sidenav.apps.chat": "Chat",
+  "sidenav.apps.ecommerce": "E-Commerce",
+  "sidenav.apps.ecommerce.product": "Product",
+  "sidenav.apps.ecommerce.editProduct": "Edit Product",
+  "sidenav.apps.ecommerce.addProduct": "Add Product",
+  "sidenav.apps.ecommerce.productList": "Product List",
+  "sidenav.apps.ecommerce.orders": "Orders"
+}

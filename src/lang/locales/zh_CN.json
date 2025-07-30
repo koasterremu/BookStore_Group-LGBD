@@ -1,0 +1,23 @@
+{
+  "home": "首页",
+
+  "sidenav.dashboard": "管理员管理",
+  "sidenav.dashboard.default": "首页",
+  "sidenav.dashboard.category": "类别管理",
+  "sidenav.dashboard.new": "新闻管理",
+  "sidenav.dashboard.brand": "品牌管理",
+  "sidenav.dashboard.product": "产品管理",
+  "sidenav.dashboard.order": "订单管理",
+  "sidenav.dashboard.voucher": "优惠券管理",
+
+  "sidenav.dashboard.review": "评论管理",
+  "sidenav.dashboard.user": "用户管理",
+
+  "sidenav.apps.chat": "聊天",
+  "sidenav.apps.ecommerce": "电子商务",
+  "sidenav.apps.ecommerce.product": "产品",
+  "sidenav.apps.ecommerce.editProduct": "编辑产品",
+  "sidenav.apps.ecommerce.addProduct": "添加产品",
+  "sidenav.apps.ecommerce.productList": "产品列表",
+  "sidenav.apps.ecommerce.orders": "订单"
+}

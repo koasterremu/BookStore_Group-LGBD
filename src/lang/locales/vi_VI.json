@@ -1,0 +1,23 @@
+{
+  "home": "Trang chủ",
+
+  "sidenav.dashboard": "ADMIN Quản lý",
+  "sidenav.dashboard.default": "Trang chủ",
+  "sidenav.dashboard.category": "Quản lý danh mục",
+  "sidenav.dashboard.new": "Quản lý tin tức",
+  "sidenav.dashboard.brand": "Quản lý nhà xuất bản",
+  "sidenav.dashboard.product": "Quản lý sản phẩm",
+  "sidenav.dashboard.order": "Quản lý đơn hàng",
+  "sidenav.dashboard.voucher": "Quản lý mã giảm giá",
+
+  "sidenav.dashboard.review": "Quản lý đánh giá",
+  "sidenav.dashboard.user": "Quản lý người dùng",
+
+  "sidenav.apps.chat": "Trò chuyện",
+  "sidenav.apps.ecommerce": "Thương mại điện tử",
+  "sidenav.apps.ecommerce.product": "Sản phẩm",
+  "sidenav.apps.ecommerce.editProduct": "Chỉnh sửa sản phẩm",
+  "sidenav.apps.ecommerce.addProduct": "Thêm sản phẩm",
+  "sidenav.apps.ecommerce.productList": "Danh sách sản phẩm",
+  "sidenav.apps.ecommerce.orders": "Đơn hàng"
+}
